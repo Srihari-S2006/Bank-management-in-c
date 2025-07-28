@@ -1,0 +1,18 @@
+1000018600
+Wed Apr 19 13:13:02 2017
+Tranfered to: 1000002957	Amount transfered: 1000	
+1000002957
+Wed Apr 19 13:13:02 2017
+Tranfered from: 1000018600	Amount transfered: 1000	
+1000002962
+Sat Nov 16 15:34:20 2024
+Self Deposited 	Amount deposited: 50	
+1000002962
+Sat Nov 16 15:34:58 2024
+Withdrawn  	Amount withdrawn: 12	
+1000004264
+Sat Nov 16 18:21:56 2024
+Self Deposited 	Amount deposited: 1410065408	
+1000004264
+Sat Nov 16 18:23:10 2024
+Withdrawn  	Amount withdrawn: -559939584	
